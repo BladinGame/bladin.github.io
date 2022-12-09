@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4088950609
+CRC: 1624910731
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 036ea0ae88824470f5917b5459d3979c
+    Hash: 2a517cb878c2d89caae3baa10e4b7980
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1eee9615c8b78770c53c1c29064a3ee9
+    Hash: 1823a5ad7e2b3f62fed36a7473ad42d6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -16,8 +16,6 @@ ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 23
-  Script: {instanceID: 0}
-- Class: 28
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
@@ -67,8 +65,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 60020f2b654b39146b5d6e7b2ec1cceb, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2e5caa716b56b3a46bc3c5a0bfc90d66, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 18a831a40a8e8694391f599354b92ff0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a5011ea6b69b4d145adb69d8812398f7, type: 3}
 - Class: 114
@@ -199,37 +195,11 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.InputSystem
   ClassName: UnityEngine.InputSystem.PlayerInput/DeviceRegainedEvent
 - AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.FaceInfo_Legacy
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.FontAssetCreationSettings
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.KerningTable
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_Character
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_FontFeatureTable
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_FontWeightPair
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_GlyphAdjustmentRecord
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
-- AssemblyName: Unity.TextMeshPro
-  ClassName: TMPro.TMP_GlyphValueRecord
-- AssemblyName: Unity.TextMeshPro
   ClassName: TMPro.VertexGradient
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.RectOffset
-- AssemblyName: UnityEngine.TextCoreFontEngineModule
-  ClassName: UnityEngine.TextCore.FaceInfo
-- AssemblyName: UnityEngine.TextCoreFontEngineModule
-  ClassName: UnityEngine.TextCore.Glyph
-- AssemblyName: UnityEngine.TextCoreFontEngineModule
-  ClassName: UnityEngine.TextCore.GlyphMetrics
-- AssemblyName: UnityEngine.TextCoreFontEngineModule
-  ClassName: UnityEngine.TextCore.GlyphRect
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.AnimationTriggers
 - AssemblyName: UnityEngine.UI
@@ -369,7 +339,6 @@ Assets:
 - Assets/_Game/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_11.prefab
 - Assets/_Game/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_0.prefab
 - Assets/_Game/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_6.prefab
-- Assets/_Game/_DataAssetBundles/Prefabs/Popup/Fade/PopupFade.prefab
 - Assets/_Game/_DataAssetBundles/Prefabs/Level/Generator/LevelGenerator.prefab
 - Assets/_Game/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_6.prefab
 - Assets/_Game/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_19.prefab
@@ -440,3 +409,4 @@ Dependencies:
 - D:/projects/HeavenandHell/AssetBundles/Android/rainbowmagic
 - D:/projects/HeavenandHell/AssetBundles/Android/sprites
 - D:/projects/HeavenandHell/AssetBundles/Android/suriyun
+- D:/projects/HeavenandHell/AssetBundles/Android/textmeshpro

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 289425187
+CRC: 3087435619
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -10,7 +10,8 @@ AssetBundleManifest:
       Dependencies: {}
     Info_2:
       Name: fonts
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: textmeshpro
     Info_3:
       Name: hypercasualfx
       Dependencies: {}
@@ -30,6 +31,7 @@ AssetBundleManifest:
         Dependency_4: rainbowmagic
         Dependency_5: suriyun
         Dependency_6: sprites
+        Dependency_7: textmeshpro
     Info_6:
       Name: rainbowmagic
       Dependencies: {}
@@ -81,3 +83,6 @@ AssetBundleManifest:
         Dependency_1: materials
         Dependency_2: prefabs
         Dependency_3: rainbowmagic
+    Info_16:
+      Name: textmeshpro
+      Dependencies: {}

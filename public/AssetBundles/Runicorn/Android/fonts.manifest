@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3988396242
+CRC: 3300252551
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 98f3096ba6db1e66850c94e81a738735
+    Hash: 75df4a42e9b9ec4c6bdd860b9f73ff6d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 10ac7ec093ef67bfab3ec96c3dc39819
@@ -48,4 +48,5 @@ Assets:
 - Assets/_Game/_DataAssetBundles/Fonts/LuckiestGuy-Regular SDF.asset
 - Assets/_Game/_DataAssetBundles/Fonts/LilitaOne-Regular 1 SDF.asset
 - Assets/_Game/_DataAssetBundles/Fonts/LuckiestGuy-Regular.ttf
-Dependencies: []
+Dependencies:
+- D:/projects/HeavenandHell/AssetBundles/Android/textmeshpro
