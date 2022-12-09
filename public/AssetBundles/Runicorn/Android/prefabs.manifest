@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1624910731
+CRC: 2764579974
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2a517cb878c2d89caae3baa10e4b7980
+    Hash: 277553b4aef39ea2c464e988a7ef1b1b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1823a5ad7e2b3f62fed36a7473ad42d6
@@ -178,16 +178,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: Cinemachine.CinemachineVirtualCameraBase/TransitionParams
 - AssemblyName: Cinemachine
   ClassName: Cinemachine.LensSettings
-- AssemblyName: Unity.InputSystem
-  ClassName: UnityEngine.InputSystem.InputAction
-- AssemblyName: Unity.InputSystem
-  ClassName: UnityEngine.InputSystem.InputActionMap
-- AssemblyName: Unity.InputSystem
-  ClassName: UnityEngine.InputSystem.InputBinding
-- AssemblyName: Unity.InputSystem
-  ClassName: UnityEngine.InputSystem.InputControlScheme
-- AssemblyName: Unity.InputSystem
-  ClassName: UnityEngine.InputSystem.InputControlScheme/DeviceRequirement
 - AssemblyName: Unity.InputSystem
   ClassName: UnityEngine.InputSystem.PlayerInput/ControlsChangedEvent
 - AssemblyName: Unity.InputSystem
@@ -405,6 +395,7 @@ Dependencies:
 - D:/projects/HeavenandHell/AssetBundles/Android/animations
 - D:/projects/HeavenandHell/AssetBundles/Android/confettifx2
 - D:/projects/HeavenandHell/AssetBundles/Android/fonts
+- D:/projects/HeavenandHell/AssetBundles/Android/inputsystem
 - D:/projects/HeavenandHell/AssetBundles/Android/materials
 - D:/projects/HeavenandHell/AssetBundles/Android/rainbowmagic
 - D:/projects/HeavenandHell/AssetBundles/Android/sprites

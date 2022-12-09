@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3087435619
+CRC: 1013247068
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -32,6 +32,7 @@ AssetBundleManifest:
         Dependency_5: suriyun
         Dependency_6: sprites
         Dependency_7: textmeshpro
+        Dependency_8: inputsystem
     Info_6:
       Name: rainbowmagic
       Dependencies: {}
@@ -44,9 +45,8 @@ AssetBundleManifest:
         Dependency_3: materials
         Dependency_4: prefabs
         Dependency_5: setting
-        Dependency_6: sound
-        Dependency_7: suriyun
-        Dependency_8: sprites
+        Dependency_6: suriyun
+        Dependency_7: sprites
     Info_8:
       Name: setting
       Dependencies: {}
@@ -85,4 +85,7 @@ AssetBundleManifest:
         Dependency_3: rainbowmagic
     Info_16:
       Name: textmeshpro
+      Dependencies: {}
+    Info_17:
+      Name: inputsystem
       Dependencies: {}

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 440891468
+CRC: 375254353
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 59f4fcf0d7cde38dd8f80bc016cb962b
+    Hash: 38cd40d1d25ca539660b1b0f17c5f34b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e075662afb3dd561be1df0dcc446f005
+    Hash: ef8dbc76f28746b78952265c990b55e5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -37,10 +37,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
-- Class: 82
-  Script: {instanceID: 0}
-- Class: 83
-  Script: {instanceID: 0}
 - Class: 89
   Script: {instanceID: 0}
 - Class: 90
@@ -68,8 +64,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 221518ef91623a7438a71fef23660601, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 90fccca71d7794da990f46a7f8c3e54c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a77465e1bcedad04d863fe2d4c32a361, type: 3}
@@ -86,17 +80,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 8799552551be16a4abce677cdc7221bd, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 084663a3a8de746c1b9021e1a5ba6355, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: f4044717213e31446939f7bd49c896ea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 0d083806eb462424db7475e4ace04824, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 2cbc6edc89905d645be827b69e42606e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 02252059af5dbd243b335fe483ec596b, type: 3}
 - Class: 114
@@ -108,8 +96,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 6377fc802fb7e5749967e117ee5a546b, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: d7fbd9d9c576440978259e3bee1a73fd, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 7bb2635b14ec5470a951069ee574b747, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -120,13 +106,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 73ff1bfd3db2d18418e3659f2104f560, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fc1515ab76e54f068e2f2207940fab32, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: c0e4020d3fb28417ea88cb5c82dfbd30, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 797a10f651712d94792fa626bb493692, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
 - Class: 114
@@ -140,8 +122,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 376d285bf0e602f4ea3b2006cac95333, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 61d4b89dee822431a829758c737307c2, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 70aadd098f49d81439f368ada46d9984, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f20be4df0c8ab0a4ba88795dcdbd4994, type: 3}
@@ -152,17 +132,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: c76345d34745fba4ebcb133b870f1819, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: d7a405b4ef27f4d7ba43c9b9b1a4f497, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: ab75872c1e11d401d8df8bc5a249d67f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
 - Class: 114
@@ -188,13 +162,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: b61135116575b4e56a73b1ed3aedfe90, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4453b841270e1d042bb7d13b1550d9ba, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 409a942d15a273749ba7c753939a5b8e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fa7155796051b734daa718462081dc5f, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 01614664b831546d2ae94a42149d80ac, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
@@ -205,8 +175,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 4b2cc9c2edf05784b84be87d6dbfa13a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b6320f2744fd76f4ca89779620ab253b, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: b7b25c6b002bb7f4eb7f66bc1fd6f860, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 135
@@ -239,13 +207,12 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Game/_DataAssetBundles/Scenes/GamePlayMain.unity
-- Assets/_Game/_DataAssetBundles/Scenes/LevelGenerator.unity
-- Assets/_Game/_DataAssetBundles/Scenes/GamePlayCanvas.unity
-- Assets/_Game/_DataAssetBundles/Scenes/Home.unity
-- Assets/_Game/_DataAssetBundles/Scenes/Splash.unity
-- Assets/_Game/_DataAssetBundles/Scenes/Loading.unity
-- Assets/_Game/_DataAssetBundles/Scenes/MainMenu.unity
+- Assets/_DataAssetBundles/Scenes/GamePlayMain.unity
+- Assets/_DataAssetBundles/Scenes/LevelGenerator.unity
+- Assets/_DataAssetBundles/Scenes/GamePlayCanvas.unity
+- Assets/_DataAssetBundles/Scenes/Home.unity
+- Assets/_DataAssetBundles/Scenes/Loading.unity
+- Assets/_DataAssetBundles/Scenes/MainMenu.unity
 Dependencies:
 - D:/projects/HeavenandHell/AssetBundles/Android/animations
 - D:/projects/HeavenandHell/AssetBundles/Android/fonts
@@ -253,6 +220,5 @@ Dependencies:
 - D:/projects/HeavenandHell/AssetBundles/Android/materials
 - D:/projects/HeavenandHell/AssetBundles/Android/prefabs
 - D:/projects/HeavenandHell/AssetBundles/Android/setting
-- D:/projects/HeavenandHell/AssetBundles/Android/sound
 - D:/projects/HeavenandHell/AssetBundles/Android/sprites
 - D:/projects/HeavenandHell/AssetBundles/Android/suriyun
