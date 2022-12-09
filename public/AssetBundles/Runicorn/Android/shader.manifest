@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2928695394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59ab84624a42d0782e8a0a3f63cde0ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87b0bba9d18ffc75f60c50b410bd4a4e
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Game/_DataAssetBundles/Shader/GridShaderBlack.shadergraph
+- Assets/_Game/_DataAssetBundles/Shader/GridShaderWhite.shadergraph
+Dependencies: []

@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 271845334
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 26d8718e1e20cf9bde96f2a17467a8cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_18/obstacle_rotate_y_move_z.anim
+- Assets/_Game/_DataAssetBundles/Animations/Splash.anim
+- Assets/_Game/_DataAssetBundles/Animations/Camera/ChangeColorCamShake.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_17/obstacle_rotate_x.anim
+- Assets/_Game/_DataAssetBundles/Animations/Player/XoayVertical.anim
+- Assets/_Game/_DataAssetBundles/Animations/Alphabet/Alphabet.controller
+- Assets/_Game/_DataAssetBundles/Animations/Player/ModelAnim.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_16/Obstacle_16_0.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_1/Obstacle_1.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_19/Obstacle_19_1.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_19/obstacle_scale_z_0.anim
+- Assets/_Game/_DataAssetBundles/Animations/Player/IdleA.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_15/obstacle_rotate_x.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_2/Obstacle_2.controller
+- Assets/_Game/_DataAssetBundles/Animations/Camera/CameVcam1.controller
+- Assets/_Game/_DataAssetBundles/Animations/1.controller
+- Assets/_Game/_DataAssetBundles/Animations/Player/IdleB.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_19/Obstacle_19_0.controller
+- Assets/_Game/_DataAssetBundles/Animations/Player/PlayerAnim.controller
+- Assets/_Game/_DataAssetBundles/Animations/Tutorial/Change/Tutorial_change.anim
+- Assets/_Game/_DataAssetBundles/Animations/Player/Show.anim
+- Assets/_Game/_DataAssetBundles/Animations/Player/Run.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_5/obstacle_move_z.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_13/obstacle_move_z.anim
+- Assets/_Game/_DataAssetBundles/Animations/Player/Fly.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_16/obstacle_move_x_left.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_12/obstacle_rotate_z.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_16/obstacle_move_x_right.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_1/obstacle_move_y_0_05.anim
+- Assets/_Game/_DataAssetBundles/Animations/Gem/Hide.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_20/obstacle_rotate_y_1.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_20/Obstacle_20_1.controller
+- Assets/_Game/_DataAssetBundles/Animations/Alphabet/Hide.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_12/Obstacle_12.controller
+- Assets/_Game/_DataAssetBundles/Animations/Player/Jump.anim
+- Assets/_Game/_DataAssetBundles/Animations/Gem/Gem.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_20/Obstacle_20_0.controller
+- Assets/_Game/_DataAssetBundles/Animations/Tutorial/Change/TutorialChange.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_13/Obstacle_13.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_15/Obstacle_15.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_2/obstacle_rotate_180.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_11/Obstacle_11.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_19/obstacle_scale_z_1.anim
+- Assets/_Game/_DataAssetBundles/Animations/Tutorial/Jump/Tutorial_jump.anim
+- Assets/_Game/_DataAssetBundles/Animations/Tutorial/Jump/TutorialJump.controller
+- Assets/_Game/_DataAssetBundles/Animations/Camera/LandingCamShake.anim
+- Assets/_Game/_DataAssetBundles/Animations/Player/Die.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_16/Obstacle_16_1.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_18/Obstacle_18.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_5/Obstacle_5.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_17/Obstacle_17.controller
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_20/obstacle_rotate_y_0.anim
+- Assets/_Game/_DataAssetBundles/Animations/Obstacle/Obstacle_11/obstacle_rotate_x.anim
+- Assets/_Game/_DataAssetBundles/Animations/Player/Hide.anim
+- Assets/_Game/_DataAssetBundles/Animations/Alphabet/AlphabetRotateMove.anim
+- Assets/_Game/_DataAssetBundles/Animations/Player/Revive.anim
+Dependencies: []

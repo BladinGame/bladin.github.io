@@ -1,0 +1,120 @@
+ManifestFileVersion: 0
+CRC: 1512854637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77878249797820e1d66979a74f7d8d80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c5228da37f0ce324f6e67476e0052b6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7310800cb58f6bc4fb6f4e57abdd7891, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Zones/RainbowCircleWavySmall.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowCharge.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowFallingDust.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowSmoke2.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Zones/RainbowCircleBig.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Missiles/LaserMissile.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowThreads.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Fire/RainbowFireBigSOFT.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Zones/RainbowHelixZone.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowSmoke3.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Textures/glowring_thin.png
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Confetti/RainbowConfettiExplosion2.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Muzzleflash/RainbowSmallMuzzle.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Materials/circle 1.mat
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Fire/RainbowFireSmall.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowSmoke.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Explosions/RainbowNukeExplosion.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowNova.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Materials/burnmark.mat
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Liquid/RainbowLiquidSplash.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Explosions/RainbowOrbExplosion.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Muzzleflash/RainbowNukeMuzzle.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowTentacle.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Fire/RainbowFireBig.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Explosions/RainbowLaserExplosion2.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Zones/RainbowCircleGlowyBig.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Textures/glow.png
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Models/RainbowTube.FBX
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Confetti/RainbowConfetti.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Confetti/RainbowConfettiExplosion.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowWeird.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Muzzleflash/RainbowMediumMuzzle.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Materials/glow 1.mat
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Explosions/RainbowLaserExplosion.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowTentacle2.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Materials/clouds.mat
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Materials/glow.mat
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Fire/RainbowFireSmallSOFT.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Liquid/RainbowLiquidWaterfall1.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Materials/glowring.mat
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowTunnel.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Missiles/PlasmaMissile.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Zones/RainbowCircleWavyBig.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Textures/clouds.png
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowCloudTrail.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Missiles/BulletMissile.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Textures/circle.png
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Materials/circle.mat
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Textures/glowring.png
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Materials/RainbowGlow.mat
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Liquid/RainbowLiquidWaterfall.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Orbs/RainbowOrbBig.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowSphereShield.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Zones/RainbowCircleGlowySmall.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Light/RainbowLight.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Explosions/RainbowMediumExplosion.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowDonut.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Zones/RainbowCircleSmall.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Explosions/RainbowPlasmaExplosion.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Missiles/OrbMissile.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Orbs/RainbowLightningOrb.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Orbs/RainbowOrb.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowLightning.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/ScorchMark.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Materials/RainbowHighEmission.mat
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Missiles/NukeMissile.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Muzzleflash/LaserMuzzle.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Materials/glowring_thin.mat
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Missiles/MediumMissile.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Misc/RainbowTube.prefab
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Rainbow Magic - Readme.txt
+- Assets/_Game/_DataAssetBundles/RainbowMagic/Prefabs/Explosions/RainbowBulletExplosion.prefab
+Dependencies: []

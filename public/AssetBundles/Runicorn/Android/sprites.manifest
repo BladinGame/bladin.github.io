@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 2739436674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ba03562a94b2b14f412d05089232445
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Game/_DataAssetBundles/Sprites/VolumeIcon.png
+- Assets/_Game/_DataAssetBundles/Sprites/Smoke/circle.png
+- Assets/_Game/_DataAssetBundles/Sprites/Smoke/glow1.png
+- Assets/_Game/_DataAssetBundles/Sprites/LightTop.png
+- Assets/_Game/_DataAssetBundles/Sprites/Btn1.png
+- Assets/_Game/_DataAssetBundles/Sprites/Next Level White.png
+- Assets/_Game/_DataAssetBundles/Sprites/Tic Green.png
+- Assets/_Game/_DataAssetBundles/Sprites/bt_blue.png
+- Assets/_Game/_DataAssetBundles/Sprites/Main Menu White.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/Victory.png
+- Assets/_Game/_DataAssetBundles/Sprites/B1.png
+- Assets/_Game/_DataAssetBundles/Sprites/Card2.png
+- Assets/_Game/_DataAssetBundles/Sprites/inventory.png
+- Assets/_Game/_DataAssetBundles/Sprites/Shield/glow.png
+- Assets/_Game/_DataAssetBundles/Sprites/items/shield.png
+- Assets/_Game/_DataAssetBundles/Sprites/Btn_3.png
+- Assets/_Game/_DataAssetBundles/Sprites/BoxBg2.png
+- Assets/_Game/_DataAssetBundles/Sprites/BoxBg3.png
+- Assets/_Game/_DataAssetBundles/Sprites/TitleBg1.png
+- Assets/_Game/_DataAssetBundles/Sprites/2Star 1.png
+- Assets/_Game/_DataAssetBundles/Sprites/RankIcon.png
+- Assets/_Game/_DataAssetBundles/Sprites/bt_green.png
+- Assets/_Game/_DataAssetBundles/Sprites/LightBot.png
+- Assets/_Game/_DataAssetBundles/Sprites/Smoke/cloud_2x2_hardshadow.png
+- Assets/_Game/_DataAssetBundles/Sprites/Lock Green.png
+- Assets/_Game/_DataAssetBundles/Sprites/B3.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/Excellent.png
+- Assets/_Game/_DataAssetBundles/Sprites/Rank3.png
+- Assets/_Game/_DataAssetBundles/Sprites/AddBtn.png
+- Assets/_Game/_DataAssetBundles/Sprites/CoinHud.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/You_Win.png
+- Assets/_Game/_DataAssetBundles/Sprites/bt_orange.png
+- Assets/_Game/_DataAssetBundles/Sprites/BoxBg4.png
+- Assets/_Game/_DataAssetBundles/Sprites/Icon_ImageIcon_Tutorial_Hand.png
+- Assets/_Game/_DataAssetBundles/Sprites/back.png
+- Assets/_Game/_DataAssetBundles/Sprites/VolumeBg.png
+- Assets/_Game/_DataAssetBundles/Sprites/TitleBg2.png
+- Assets/_Game/_DataAssetBundles/Sprites/bg_bt.png
+- Assets/_Game/_DataAssetBundles/Sprites/items/wing.png
+- Assets/_Game/_DataAssetBundles/Sprites/bt_white.png
+- Assets/_Game/_DataAssetBundles/Sprites/GoldStore2.png
+- Assets/_Game/_DataAssetBundles/Sprites/items/remove_ads.png
+- Assets/_Game/_DataAssetBundles/Sprites/Ad Shadow Red.png
+- Assets/_Game/_DataAssetBundles/Sprites/BoxBg1.png
+- Assets/_Game/_DataAssetBundles/Sprites/Ad Green.png
+- Assets/_Game/_DataAssetBundles/Sprites/Lock Orange.png
+- Assets/_Game/_DataAssetBundles/Sprites/VolumeFg.png
+- Assets/_Game/_DataAssetBundles/Sprites/circle_mask.png
+- Assets/_Game/_DataAssetBundles/Sprites/Stars/circle.png
+- Assets/_Game/_DataAssetBundles/Sprites/Smoke/clouds_magic2_soft.png
+- Assets/_Game/_DataAssetBundles/Sprites/Stars/cloud_2x2_hardshadow.png
+- Assets/_Game/_DataAssetBundles/Sprites/Stars/star_outlined_colored.png
+- Assets/_Game/_DataAssetBundles/Sprites/0Star 1.png
+- Assets/_Game/_DataAssetBundles/Sprites/exit.png
+- Assets/_Game/_DataAssetBundles/Sprites/Icon_PictoIcon_Play.png
+- Assets/_Game/_DataAssetBundles/Sprites/icons/Level Failed.png
+- Assets/_Game/_DataAssetBundles/Sprites/CloseBtn.png
+- Assets/_Game/_DataAssetBundles/Sprites/TimeBarIcon.png
+- Assets/_Game/_DataAssetBundles/Sprites/items/gold.png
+- Assets/_Game/_DataAssetBundles/Sprites/Btn2.png
+- Assets/_Game/_DataAssetBundles/Sprites/Rank2.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/Success.png
+- Assets/_Game/_DataAssetBundles/Sprites/Shield/glowring.png
+- Assets/_Game/_DataAssetBundles/Sprites/GoldStore4.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/Amazing.png
+- Assets/_Game/_DataAssetBundles/Sprites/TimeBarFg.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/Awesome.png
+- Assets/_Game/_DataAssetBundles/Sprites/Card3.png
+- Assets/_Game/_DataAssetBundles/Sprites/bt_red.png
+- Assets/_Game/_DataAssetBundles/Sprites/ClearBtn.png
+- Assets/_Game/_DataAssetBundles/Sprites/bt_lowblue.png
+- Assets/_Game/_DataAssetBundles/Sprites/TitleBg3.png
+- Assets/_Game/_DataAssetBundles/Sprites/bt_pink.png
+- Assets/_Game/_DataAssetBundles/Sprites/Stars/glow1.png
+- Assets/_Game/_DataAssetBundles/Sprites/Stars/star.png
+- Assets/_Game/_DataAssetBundles/Sprites/Btn_Paused.png
+- Assets/_Game/_DataAssetBundles/Sprites/LineBox.png
+- Assets/_Game/_DataAssetBundles/Sprites/Shield/circle.png
+- Assets/_Game/_DataAssetBundles/Sprites/B4.png
+- Assets/_Game/_DataAssetBundles/Sprites/Rank1.png
+- Assets/_Game/_DataAssetBundles/Sprites/shop.png
+- Assets/_Game/_DataAssetBundles/Sprites/GoldStore1.png
+- Assets/_Game/_DataAssetBundles/Sprites/GoldStore3.png
+- Assets/_Game/_DataAssetBundles/Sprites/Card4.png
+- Assets/_Game/_DataAssetBundles/Sprites/pause.png
+- Assets/_Game/_DataAssetBundles/Sprites/items/star.png
+- Assets/_Game/_DataAssetBundles/Sprites/Smoke/lightray2.png
+- Assets/_Game/_DataAssetBundles/Sprites/3Star 1.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/Great.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/Unbelievable.png
+- Assets/_Game/_DataAssetBundles/Sprites/Restart White.png
+- Assets/_Game/_DataAssetBundles/Sprites/TimeBarBg.png
+- Assets/_Game/_DataAssetBundles/Sprites/HintBtn.png
+- Assets/_Game/_DataAssetBundles/Sprites/Animal06.png
+- Assets/_Game/_DataAssetBundles/Sprites/Lock Turquoise.png
+- Assets/_Game/_DataAssetBundles/Sprites/items/money.png
+- Assets/_Game/_DataAssetBundles/Sprites/Restart Green.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/Incredible.png
+- Assets/_Game/_DataAssetBundles/Sprites/ExtraTime_Btn.png
+- Assets/_Game/_DataAssetBundles/Sprites/Icon_PictoIcon_Back.png
+- Assets/_Game/_DataAssetBundles/Sprites/bt_yellow.png
+- Assets/_Game/_DataAssetBundles/Sprites/GoldStore5.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/Perfect.png
+- Assets/_Game/_DataAssetBundles/Sprites/B5.png
+- Assets/_Game/_DataAssetBundles/Sprites/Button Rectangle Green.png
+- Assets/_Game/_DataAssetBundles/Sprites/B2.png
+- Assets/_Game/_DataAssetBundles/Sprites/Card1.png
+- Assets/_Game/_DataAssetBundles/Sprites/bt_purple.png
+- Assets/_Game/_DataAssetBundles/Sprites/TextWin/Good.png
+- Assets/_Game/_DataAssetBundles/Sprites/1Star 1.png
+- Assets/_Game/_DataAssetBundles/Sprites/TitleBg4.png
+- Assets/_Game/_DataAssetBundles/Sprites/setting.png
+- Assets/_Game/_DataAssetBundles/Sprites/Animal04.png
+- Assets/_Game/_DataAssetBundles/Sprites/ShopIcon.png
+- Assets/_Game/_DataAssetBundles/Sprites/Next Level Green.png
+Dependencies: []
