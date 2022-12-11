@@ -1,0 +1,414 @@
+ManifestFileVersion: 0
+CRC: 2136760628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f382a2602b978bed8cba98be8dd9254a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52ba77244285d1c06da5147611629f62
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80b0f51b4887749bf9b95b50dc3de6ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19107ecddb118514b9a80da623625218, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7310800cb58f6bc4fb6f4e57abdd7891, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a77465e1bcedad04d863fe2d4c32a361, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca78f3ec129caf349b1bfa6f6a1ca7ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75da50055a66cc448a44d5285e9e0b3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60020f2b654b39146b5d6e7b2ec1cceb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e5caa716b56b3a46bc3c5a0bfc90d66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a5011ea6b69b4d145adb69d8812398f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 595e72d3cb3492e49a4d7a7c9e3789ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4044717213e31446939f7bd49c896ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02252059af5dbd243b335fe483ec596b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12d3d0e20bf40d74b9810061ad878ba8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7bb2635b14ec5470a951069ee574b747, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df96b956e5722104597a0a7cc393b65e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73ff1bfd3db2d18418e3659f2104f560, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4b1bacd57509a84db9998c8a9ae4ce8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f720deb34dc7b4e6590eb355d7465d9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b49693936f09da5448133a2cc77b250f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1746c0cc7ed50ad4bb5f9225d285be29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1cdcf170e3443c46b4ecf79285d049c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6495db519a75fe4894dc0316adb6b32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fd0f0ab99db773469ce1e6da94dddc3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 376d285bf0e602f4ea3b2006cac95333, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70aadd098f49d81439f368ada46d9984, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c76345d34745fba4ebcb133b870f1819, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34dff4db358e1c24fbc90f97495af425, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf8ab2c98b7653b4aa6a85ed5b6f7362, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5dffb973399880542aee460ca3e2ca3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9740c94bbc9c8f48a237a0c5bee8cd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00dcea2edfaa844cf9d9494515afad66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7f9159faa9f42d488e24f892e33061b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc462e9bac7a146b8ab6cb42c54cea21, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 409a942d15a273749ba7c753939a5b8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa7155796051b734daa718462081dc5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34f897cb4d787e24391c494302288698, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e960185417165b4bae4dafe735b91bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6320f2744fd76f4ca89779620ab253b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0f1234659ee3744a85dfeb04d5655a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e517a3aadf8b9e148933f006ecc34b28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e0a993adaaf19846bb67e4ed7a67861, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ACTk.Runtime
+  ClassName: CodeStage.AntiCheat.ObscuredTypes.ObscuredBool
+- AssemblyName: ACTk.Runtime
+  ClassName: CodeStage.AntiCheat.ObscuredTypes.ObscuredInt
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachineBrain/VcamActivatedEvent
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachineVirtualCameraBase/TransitionParams
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.LensSettings
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.PlayerInput/ControlsChangedEvent
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.PlayerInput/DeviceLostEvent
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.PlayerInput/DeviceRegainedEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/Z.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_16.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_10
+  6.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_19.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_3.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_12.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_9
+  1.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_1.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/F.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_10
+  3.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_15.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/FinishPoint/FinishPoint.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_0.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_1.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_13.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_7.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Model_Collect/Road_Model_Collect.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_10
+  1.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/T.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/R.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_7.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road/FinishRoad.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_10.prefab
+- Assets/_DataAssetBundles/Prefabs/Players/Player.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_13.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/Q.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_8.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_20.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_12.prefab
+- Assets/_DataAssetBundles/Prefabs/TopButton/Top.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/N.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_10
+  2.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_20.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_11.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/Shop/PopupShop.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_6_horizon.prefab
+- Assets/_DataAssetBundles/Prefabs/Players/ModelScene.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_16.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_6.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_2.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_19
+  1.prefab
+- Assets/_DataAssetBundles/Prefabs/Skybox/SkyboxRandom.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/Win/PopupWin.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_4_spacing_10.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_8_spacing_5.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/A.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/Y.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_3.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/E.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_7.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_20.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_5_spacing_10.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_10
+  5.prefab
+- Assets/_DataAssetBundles/Prefabs/Stars/StarPoof.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_15.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_4_spacing_5.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_9.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_12_spacing_10.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_2.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/U.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_4.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_0.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_9.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_8.prefab
+- Assets/_DataAssetBundles/Prefabs/Stars/StarPoofNoBigStar.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_19.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/Notice/PopupNoticeSmall.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/I.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_17.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_9
+  2.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_3.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/P.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_10.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_14.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_15.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_17.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_1.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_8
+  2.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_4.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/V.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_8
+  1.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_1.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_13.prefab
+- Assets/_DataAssetBundles/Prefabs/Smoke/FlashExplosion2.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/J.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road/Road.prefab
+- Assets/_DataAssetBundles/Prefabs/MainMenu/item_level_mainmenu.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/H.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/Inventory/PopupInventory.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/G.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_2.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_14
+  2.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/Inventory/item_inventory.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_7.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_9.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_13.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/B.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_8.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_3_spacing_5.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/D.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/L.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_5.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_0.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_12.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_5.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_17.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_18.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_11.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_0.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_6.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Generator/LevelGenerator.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_6.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_19.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_10.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/Revive/PopUpRevive.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_9.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_16.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_19
+  2.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/M.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_15.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/Shop/item_shop.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/Reward/PopupReward.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_14
+  1.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_2.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_21.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_4.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_4.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_7
+  1.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_12.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/C.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_14.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_18.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/W.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_10_spacing_10.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_3.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_1.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/AdsTreasure/PopupAdsTreasure.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_11.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_2.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_11
+  1.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/ModelCollect/Model_Collect.prefab
+- Assets/_DataAssetBundles/Prefabs/Gameplay/item_comsumable_gameplay.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_6.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_5.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_14.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_17.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_4.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/O.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_8.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/X.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/S.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_10.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_6.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/Notice/PopUpNotice.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Model_Collect/Obstacle_Model_10
+  4.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_5.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles_Gem/Obstacle_Gem_5.prefab
+- Assets/_DataAssetBundles/Prefabs/Popup/Setting/PopupSetting.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Gem/Gem_8_spacing_10.prefab
+- Assets/_DataAssetBundles/Prefabs/Shield/RainbowSphereShield.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_11.prefab
+- Assets/_DataAssetBundles/Prefabs/GoldUI/gold.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_3.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_16.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Obstacles/Obstacle_18.prefab
+- Assets/_DataAssetBundles/Prefabs/Smoke/SmokeExplosionWhite.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Alphabet/K.prefab
+- Assets/_DataAssetBundles/Prefabs/Level/Road_Gem/Road_Gem_14.prefab
+Dependencies:
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/animations
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/confettifx2
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/fonts
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/inputsystem
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/materials
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/rainbowmagic
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/sprites
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/suriyun
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/textmeshpro

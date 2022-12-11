@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1515668177
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1dcbdb126d487534e785b56e1f9ea6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_DataAssetBundles/Sound/click.wav
+- Assets/_DataAssetBundles/Sound/run.wav
+- Assets/_DataAssetBundles/Sound/game_bg_4.wav
+- Assets/_DataAssetBundles/Sound/game_bg_3.wav
+- Assets/_DataAssetBundles/Sound/home_bg_2.wav
+- Assets/_DataAssetBundles/Sound/jump.wav
+- Assets/_DataAssetBundles/Sound/model_collect.wav
+- Assets/_DataAssetBundles/Sound/game_bg_1.mp3
+- Assets/_DataAssetBundles/Sound/immune.wav
+- Assets/_DataAssetBundles/Sound/landing.wav
+- Assets/_DataAssetBundles/Sound/game_bg_0.wav
+- Assets/_DataAssetBundles/Sound/on_toggle.wav
+- Assets/_DataAssetBundles/Sound/change.wav
+- Assets/_DataAssetBundles/Sound/off_toggle.wav
+- Assets/_DataAssetBundles/Sound/orb.wav
+- Assets/_DataAssetBundles/Sound/home_bg_1.wav
+- Assets/_DataAssetBundles/Sound/die.wav
+- Assets/_DataAssetBundles/Sound/game_bg_2.wav
+- Assets/_DataAssetBundles/Sound/game_bg_6.wav
+- Assets/_DataAssetBundles/Sound/victory.wav
+- Assets/_DataAssetBundles/Sound/game_bg_5.wav
+- Assets/_DataAssetBundles/Sound/finish.wav
+- Assets/_DataAssetBundles/Sound/home_bg_0.wav
+- Assets/_DataAssetBundles/Sound/double_jump.wav
+Dependencies: []

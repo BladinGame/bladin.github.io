@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 2449094318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61b684ad2dc2109218451d91f6a246a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_DataAssetBundles/Materials/TitlingRoad/TitlingBlackRoadPurple.mat
+- Assets/_DataAssetBundles/Materials/RoadFull/RoadWhiteFull.mat
+- Assets/_DataAssetBundles/Materials/Smoke/circle_AB.mat
+- Assets/_DataAssetBundles/Materials/TitlingRoad/TitlingBlackRoadWhite.mat
+- Assets/_DataAssetBundles/Materials/Stars/star_outlined_colored_AB.mat
+- Assets/_DataAssetBundles/Materials/Stars/cloud_2x2_default_AB.mat
+- Assets/_DataAssetBundles/Materials/TitlingRoad/TitlingBlackRoadYellow.mat
+- Assets/_DataAssetBundles/Materials/TitlingRoad/TitlingBlackRoadRed.mat
+- Assets/_DataAssetBundles/Materials/Gem/TitlingBlackGemGreen.mat
+- Assets/_DataAssetBundles/Materials/Gem/TitlingBlackGemOrange.mat
+- Assets/_DataAssetBundles/Materials/RoadFull/RoadPinkFull.mat
+- Assets/_DataAssetBundles/Materials/TitlingRoad/TitlingBlackRoadOrange.mat
+- Assets/_DataAssetBundles/Materials/Gem/TitlingBlackGemPurple.mat
+- Assets/_DataAssetBundles/Materials/DarkRoad/BlackRoadRed.mat
+- Assets/_DataAssetBundles/Materials/Environment/Envir_0.mat
+- Assets/_DataAssetBundles/Materials/Gem/GemGreenFull.mat
+- Assets/_DataAssetBundles/Materials/Gem/GemBlackFull.mat
+- Assets/_DataAssetBundles/Materials/TitlingRoad/TitlingBlackRoadGreen.mat
+- Assets/_DataAssetBundles/Materials/Gem/GemWhiteFull.mat
+- Assets/_DataAssetBundles/Materials/Road/BlackRoadGreen.mat
+- Assets/_DataAssetBundles/Materials/Gem/GemBlueFull.mat
+- Assets/_DataAssetBundles/Materials/Gem/GemOrangeFull.mat
+- Assets/_DataAssetBundles/Materials/Stars/star_AB.mat
+- Assets/_DataAssetBundles/Materials/Gem/GemYellowFull.mat
+- Assets/_DataAssetBundles/Materials/Gem/GemRedFull.mat
+- Assets/_DataAssetBundles/Materials/RoadFull/RoadBlackFull.mat
+- Assets/_DataAssetBundles/Materials/TitlingRoad/TitlingBlackRoadBlue.mat
+- Assets/_DataAssetBundles/Materials/DarkRoad/BlackRoadOrange.mat
+- Assets/_DataAssetBundles/Materials/DarkRoad/BlackRoadPink.mat
+- Assets/_DataAssetBundles/Materials/RoadFull/RoadBlueFull.mat
+- Assets/_DataAssetBundles/Materials/Environment/Envir_1.mat
+- Assets/_DataAssetBundles/Materials/Environment/Envir_3.mat
+- Assets/_DataAssetBundles/Materials/DarkRoad/BlackRoadLowBlue.mat
+- Assets/_DataAssetBundles/Materials/RoadFull/RoadOrangeFull.mat
+- Assets/_DataAssetBundles/Materials/RoadFull/RoadLowBlueFull.mat
+- Assets/_DataAssetBundles/Materials/Gem/TitlingBlackGemBlue.mat
+- Assets/_DataAssetBundles/Materials/Road/BlackRoadYellow 2.mat
+- Assets/_DataAssetBundles/Materials/Gem/TitlingBlackGemRed.mat
+- Assets/_DataAssetBundles/Materials/DarkRoad/BlackRoadPurple.mat
+- Assets/_DataAssetBundles/Materials/RoadFull/RoadPurpleFull.mat
+- Assets/_DataAssetBundles/Materials/Shield/glow.mat
+- Assets/_DataAssetBundles/Materials/Plane/Plane.mat
+- Assets/_DataAssetBundles/Materials/Shield/glowring.mat
+- Assets/_DataAssetBundles/Materials/Gem/TitlingBlackGemLowBlue.mat
+- Assets/_DataAssetBundles/Materials/Smoke/cloud_magic_AB.mat
+- Assets/_DataAssetBundles/Materials/Gem/TitlingBlackGemWhite.mat
+- Assets/_DataAssetBundles/Materials/RoadFull/RoadYellowFull.mat
+- Assets/_DataAssetBundles/Materials/Gem/GemLowBlueFull.mat
+- Assets/_DataAssetBundles/Materials/Smoke/cloud_2x2_default_AB.mat
+- Assets/_DataAssetBundles/Materials/Road/BlackRoadBlack.mat
+- Assets/_DataAssetBundles/Materials/Road/BlackRoadOrange.mat
+- Assets/_DataAssetBundles/Materials/TitlingRoad/TitlingBlackRoadLowBlue.mat
+- Assets/_DataAssetBundles/Materials/DarkRoad/BlackRoadYellow.mat
+- Assets/_DataAssetBundles/Materials/Gem/GemPurpleFull.mat
+- Assets/_DataAssetBundles/Materials/RoadFull/RoadGreenFull.mat
+- Assets/_DataAssetBundles/Materials/RoadFull/RoadRedFull.mat
+- Assets/_DataAssetBundles/Materials/Gem/TitlingBlackGemYellow.mat
+- Assets/_DataAssetBundles/Materials/DarkRoad/BlackRoadWhite.mat
+- Assets/_DataAssetBundles/Materials/Stars/circle_AB.mat
+- Assets/_DataAssetBundles/Materials/Shield/circle.mat
+- Assets/_DataAssetBundles/Materials/TitlingRoad/TitlingBlackRoadPink.mat
+- Assets/_DataAssetBundles/Materials/Gem/GemPinkFull.mat
+- Assets/_DataAssetBundles/Materials/Gem/TitlingBlackGemPink.mat
+- Assets/_DataAssetBundles/Materials/Smoke/glow1_ADD.mat
+- Assets/_DataAssetBundles/Materials/Smoke/lightray2_ADD.mat
+- Assets/_DataAssetBundles/Materials/Stars/glow1_ADD.mat
+- Assets/_DataAssetBundles/Materials/DarkRoad/BlackRoadGreen.mat
+- Assets/_DataAssetBundles/Materials/DarkRoad/BlackRoadBlue.mat
+Dependencies:
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/rainbowmagic
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/shader
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.8/sprites
