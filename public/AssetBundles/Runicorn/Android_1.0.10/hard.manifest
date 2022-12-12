@@ -1,0 +1,168 @@
+ManifestFileVersion: 0
+CRC: 1739992020
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c39e1077280ba075db382b032fbceaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 63d100bb1984c498181bada5ffff6eaf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4044717213e31446939f7bd49c896ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a2a4b287b0553445b1b3d6f8cb17d36, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1cdcf170e3443c46b4ecf79285d049c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c76345d34745fba4ebcb133b870f1819, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa7155796051b734daa718462081dc5f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ACTk.Runtime
+  ClassName: CodeStage.AntiCheat.ObscuredTypes.ObscuredInt
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachineBrain/VcamActivatedEvent
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.CinemachineVirtualCameraBase/TransitionParams
+- AssemblyName: Cinemachine
+  ClassName: Cinemachine.LensSettings
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+Assets:
+- Assets/_DataAssetBundles/Hard/Level_68.prefab
+- Assets/_DataAssetBundles/Hard/Level_25.prefab
+- Assets/_DataAssetBundles/Hard/Level_91.prefab
+- Assets/_DataAssetBundles/Hard/Level_62.prefab
+- Assets/_DataAssetBundles/Hard/Level_27.prefab
+- Assets/_DataAssetBundles/Hard/Level_46.prefab
+- Assets/_DataAssetBundles/Hard/Level_14.prefab
+- Assets/_DataAssetBundles/Hard/Level_35.prefab
+- Assets/_DataAssetBundles/Hard/Level_24.prefab
+- Assets/_DataAssetBundles/Hard/Level_17.prefab
+- Assets/_DataAssetBundles/Hard/Level_21.prefab
+- Assets/_DataAssetBundles/Hard/Level_80.prefab
+- Assets/_DataAssetBundles/Hard/Level_15.prefab
+- Assets/_DataAssetBundles/Hard/Level_92.prefab
+- Assets/_DataAssetBundles/Hard/Level_65.prefab
+- Assets/_DataAssetBundles/Hard/Level_43.prefab
+- Assets/_DataAssetBundles/Hard/Level_77.prefab
+- Assets/_DataAssetBundles/Hard/Level_76.prefab
+- Assets/_DataAssetBundles/Hard/Level_85.prefab
+- Assets/_DataAssetBundles/Hard/Level_28.prefab
+- Assets/_DataAssetBundles/Hard/Level_20.prefab
+- Assets/_DataAssetBundles/Hard/Level_99.prefab
+- Assets/_DataAssetBundles/Hard/Level_11.prefab
+- Assets/_DataAssetBundles/Hard/Level_78.prefab
+- Assets/_DataAssetBundles/Hard/Level_60.prefab
+- Assets/_DataAssetBundles/Hard/Level_95.prefab
+- Assets/_DataAssetBundles/Hard/Level_36.prefab
+- Assets/_DataAssetBundles/Hard/Level_87.prefab
+- Assets/_DataAssetBundles/Hard/Level_13.prefab
+- Assets/_DataAssetBundles/Hard/Level_10.prefab
+- Assets/_DataAssetBundles/Hard/Level_66.prefab
+- Assets/_DataAssetBundles/Hard/Level_84.prefab
+- Assets/_DataAssetBundles/Hard/Level_39.prefab
+- Assets/_DataAssetBundles/Hard/Level_93.prefab
+- Assets/_DataAssetBundles/Hard/Level_55.prefab
+- Assets/_DataAssetBundles/Hard/Level_2.prefab
+- Assets/_DataAssetBundles/Hard/Level_86.prefab
+- Assets/_DataAssetBundles/Hard/Level_3.prefab
+- Assets/_DataAssetBundles/Hard/Level_16.prefab
+- Assets/_DataAssetBundles/Hard/Level_96.prefab
+- Assets/_DataAssetBundles/Hard/Level_67.prefab
+- Assets/_DataAssetBundles/Hard/Level_4.prefab
+- Assets/_DataAssetBundles/Hard/Level_5.prefab
+- Assets/_DataAssetBundles/Hard/Level_29.prefab
+- Assets/_DataAssetBundles/Hard/Level_50.prefab
+- Assets/_DataAssetBundles/Hard/Level_59.prefab
+- Assets/_DataAssetBundles/Hard/Level_97.prefab
+- Assets/_DataAssetBundles/Hard/Level_8.prefab
+- Assets/_DataAssetBundles/Hard/Level_22.prefab
+- Assets/_DataAssetBundles/Hard/Level_42.prefab
+- Assets/_DataAssetBundles/Hard/Level_63.prefab
+- Assets/_DataAssetBundles/Hard/Level_89.prefab
+- Assets/_DataAssetBundles/Hard/Level_88.prefab
+- Assets/_DataAssetBundles/Hard/Level_54.prefab
+- Assets/_DataAssetBundles/Hard/Level_9.prefab
+- Assets/_DataAssetBundles/Hard/Level_64.prefab
+- Assets/_DataAssetBundles/Hard/Level_34.prefab
+- Assets/_DataAssetBundles/Hard/Level_79.prefab
+- Assets/_DataAssetBundles/Hard/Level_1.prefab
+- Assets/_DataAssetBundles/Hard/Level_94.prefab
+- Assets/_DataAssetBundles/Hard/Level_83.prefab
+- Assets/_DataAssetBundles/Hard/Level_51.prefab
+- Assets/_DataAssetBundles/Hard/Level_56.prefab
+- Assets/_DataAssetBundles/Hard/Level_71.prefab
+- Assets/_DataAssetBundles/Hard/Level_44.prefab
+- Assets/_DataAssetBundles/Hard/Level_69.prefab
+- Assets/_DataAssetBundles/Hard/Level_81.prefab
+- Assets/_DataAssetBundles/Hard/Level_41.prefab
+- Assets/_DataAssetBundles/Hard/Level_18.prefab
+- Assets/_DataAssetBundles/Hard/Level_26.prefab
+- Assets/_DataAssetBundles/Hard/Level_0.prefab
+- Assets/_DataAssetBundles/Hard/Level_57.prefab
+- Assets/_DataAssetBundles/Hard/Level_38.prefab
+- Assets/_DataAssetBundles/Hard/Level_82.prefab
+- Assets/_DataAssetBundles/Hard/Level_45.prefab
+- Assets/_DataAssetBundles/Hard/Level_53.prefab
+- Assets/_DataAssetBundles/Hard/Level_6.prefab
+- Assets/_DataAssetBundles/Hard/Level_33.prefab
+- Assets/_DataAssetBundles/Hard/Level_58.prefab
+- Assets/_DataAssetBundles/Hard/Level_98.prefab
+- Assets/_DataAssetBundles/Hard/Level_31.prefab
+- Assets/_DataAssetBundles/Hard/Level_52.prefab
+- Assets/_DataAssetBundles/Hard/Level_73.prefab
+- Assets/_DataAssetBundles/Hard/Level_49.prefab
+- Assets/_DataAssetBundles/Hard/Level_70.prefab
+- Assets/_DataAssetBundles/Hard/Level_75.prefab
+- Assets/_DataAssetBundles/Hard/Level_23.prefab
+- Assets/_DataAssetBundles/Hard/Level_19.prefab
+- Assets/_DataAssetBundles/Hard/Level_7.prefab
+- Assets/_DataAssetBundles/Hard/Level_37.prefab
+- Assets/_DataAssetBundles/Hard/Level_40.prefab
+- Assets/_DataAssetBundles/Hard/Level_47.prefab
+- Assets/_DataAssetBundles/Hard/Level_61.prefab
+- Assets/_DataAssetBundles/Hard/Level_72.prefab
+- Assets/_DataAssetBundles/Hard/Level_74.prefab
+- Assets/_DataAssetBundles/Hard/Level_30.prefab
+- Assets/_DataAssetBundles/Hard/Level_48.prefab
+- Assets/_DataAssetBundles/Hard/Level_90.prefab
+- Assets/_DataAssetBundles/Hard/Level_32.prefab
+- Assets/_DataAssetBundles/Hard/Level_12.prefab
+Dependencies:
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.9/animations
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.9/materials
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.9/prefabs
+- D:/projects/HeavenandHell/AssetBundles/Android_1.0.9/rainbowmagic
